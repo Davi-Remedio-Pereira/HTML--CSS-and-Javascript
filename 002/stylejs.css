@@ -1,0 +1,13 @@
+*{
+background-color: rgb(52, 49, 49);
+color: rgb(187, 187, 187);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center
+}
+
+#herta{width: 250px;}
+
+p{
+    text-wrap: balance;
+
+}
